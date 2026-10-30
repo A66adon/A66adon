@@ -42,14 +42,13 @@
 
 <div align="center">
 
-## <img src="https://cdn.simpleicons.org/spotify/1DB954" width="26" alt="Spotify" /> Now Playing
-
-<a href="https://open.spotify.com/user/3L58J6a7f0jyy2p6f3MSAs?si" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3L58J6a7f0jyy2p6f3MSAs?si&cover_image=true&theme=default&background_color=121212&border_radius=15&bar_color=1DB954" height="160" alt="Spotify now playing" /></a>
+## <img src="https://cdn.simpleicons.org/spotify/1DB954" width="26" alt="Spotify" /> Good music
 
 <br/>
 
-<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=3L58J6a7f0jyy2p6f3MSAs?si&theme=dark&count=5&width=420" width="420" alt="Spotify recently played" />
-
+<a href="https://open.spotify.com/user/xs5vkntzztec56h11ndb9kmwp">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xs5vkntzztec56h11ndb9kmwp&amp;theme=catppuccin&amp;count=7&amp;width=570&amp;unique=1" alt="Spotify recently played" width="570" />
+</a>
 </div>
 
 <br/>
