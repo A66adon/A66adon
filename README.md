@@ -40,6 +40,7 @@
 <h1 style="background-image: url('https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261030T110342Z&X-Amz-Expires=300&X-Amz-Signature=a3590a031e52e1b6a065763a3be278795c19af39e65e0b5bf6074661d71d387b&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng');    background-size: cover; background-position: center; padding: 20px; color: white;
 "><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Skills</h1>   
 
+<table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" height="50" /></a>  
@@ -101,6 +102,6 @@
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=A66adon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=A66adon" align="center" /></div>  
 
 <br/>  
