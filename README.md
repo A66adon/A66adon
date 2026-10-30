@@ -39,7 +39,10 @@
 
 <div align="center">
 
-<img src="skills-banner.png" alt="Skills" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="skills-banner.png" />
+  <img src="skills-banner.gif" alt="Skills" width="100%" />
+</picture>
 
 </div>   
 
