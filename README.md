@@ -8,6 +8,9 @@
 </div>
 <br></br>
 
+<table><tr>
+<td valign="top">
+
 ### I'm Dave a dual student "data science" curently working for [G+D](https://www.gi-de.com/en/)  
 
 - 🔭 **I’m currently working** on various personal Projects like my [homepage](https://github.com/A66adon/homepage)  
@@ -20,7 +23,17 @@
   
 
 - ⚡ **Fun fact:** My favorite animals are ravens 
-  
+
+</td>
+<td valign="top" width="190" align="center">
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="output/bonsai.png" />
+  <img src="output/bonsai.gif" width="160" alt="my git-bonsai, grown from my GitHub history" />
+</picture>
+
+</td>
+</tr></table>
 
 <br/>
 
@@ -96,7 +109,18 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=A66adon&theme=dark&hide_border=false&border_radius=10&card_width=1180" width="100%" alt="GitHub Streak Stats" />
+<table width="100%"><tr>
+<td width="50%" align="center">
+<a href="https://github.com/A66adon" target="_blank">
+<img src="https://letstrys-bloedboemmel.vercel.app/api/?username=A66adon&amp;show_icons=true&amp;title_color=C77DFF&amp;icon_color=9D4EDD&amp;text_color=E0D7F5&amp;bg_color=1A1025&amp;border_color=7B2CBF&amp;border_radius=10" width="100%" alt="A66adon's GitHub stats" />
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/A66adon" target="_blank">
+<img src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=A66adon&amp;layout=compact&amp;card_width=370&amp;title_color=C77DFF&amp;text_color=E0D7F5&amp;bg_color=1A1025&amp;border_color=7B2CBF&amp;border_radius=10" width="100%" alt="A66adon's top languages" />
+</a>
+</td>
+</tr></table>
 </div>  
 
 <br/>  
