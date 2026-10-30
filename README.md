@@ -1,41 +1,25 @@
 <div align="center">
 
- ```
-                   ██╗  ██╗███████╗██╗     ██╗      ██████╗                          
-                   ██║  ██║██╔════╝██║     ██║     ██╔═══██╗                         
-                   ███████║█████╗  ██║     ██║     ██║   ██║                         
-                   ██╔══██║██╔══╝  ██║     ██║     ██║   ██║                         
-                   ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗                      
-                   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝                      
-                ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗                     
-                ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗                    
-                ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║                    
-                ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║                    
-                ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝                    
-                ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝                     
-          ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗          
-          ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║          
-          ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║          
-          ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║          
-          ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝          
-          ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝           
- ```
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="hello-dark.png" />
+<img src="hello-light.png" alt="Hello, nice to meet you" width="640" />
+</picture>
 
 </div>
 <br></br>
 
 ### I'm Dave a dual student "data science" curently working for [G+D](https://www.gi-de.com/en/)  
 
-- 🔭 I’m currently working on various personal Projects like my [homepage](https://github.com/A66adon/homepage)  
+- 🔭 **I’m currently working** on various personal Projects like my [homepage](https://github.com/A66adon/homepage)  
   
 
-- 🌱 I’m currently learning Rust and mainly Three.js
+- 🌱 **I’m currently learning** Rust and mainly Three.js
   
 
-- ❓ Ask me about anything related to Sim cards or Java 
+- ❓ **Ask me about** anything related to Sim cards or Java 
   
 
-- ⚡ Fun fact: My favorite animals are ravens 
+- ⚡ **Fun fact:** My favorite animals are ravens 
   
 
 <br/>
