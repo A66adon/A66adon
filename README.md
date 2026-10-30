@@ -41,6 +41,7 @@
 "><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Skills</h1>   
 
 <table><tr><td valign="top" width="33%">
+
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" height="50" /></a>  
@@ -102,6 +103,6 @@
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=A66adon" align="center" /></div>  
+<div align="center"><img src="https://streak-stats.demolab.com/?user=A66adon" align="center" /></div>  
 
 <br/>  
