@@ -63,7 +63,7 @@
 ### Backend
 
 <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a><br/>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kotlinlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a><br/>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.simpleicons.org/rust/DEA584" alt="Rust" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kotlinlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a><br/>
 <a href="https://www.python.org/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" height="50" /></a>
 </div>
 
@@ -75,7 +75,7 @@
 ### DevOps
 
 <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" height="50" /></a><br/>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.latex-project.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a><br/>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/FFFFFF" /><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.latex-project.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a><br/>
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>
 </div>
 
